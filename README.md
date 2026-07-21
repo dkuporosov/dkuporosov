@@ -114,8 +114,6 @@
         />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <h2>🏢 БАЛТЛИДЕР</h2>
       <p>Turnkey construction materials supply company website</p>
@@ -136,6 +134,8 @@
         />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <h2>👤 BOGACHELI</h2>
       <p>Personal brand website designed for presenting services and expertise</p>
