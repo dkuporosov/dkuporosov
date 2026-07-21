@@ -88,7 +88,7 @@
 		</td>
 		<td align="center" width="25%">
 			<h1>📱</h1>
-			<b>UI / UX</b>
+			<b>UI/UX</b>
 		</td>
 		<td align="center" width="25%">
 			<h1>🚀</h1>
