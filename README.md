@@ -136,6 +136,7 @@
     </td>
   </tr>
   <tr>
+    <td></td>
     <td align="center" width="33%">
       <h2>👤 BOGACHELI</h2>
       <p>Personal brand website designed for presenting services and expertise</p>
@@ -146,6 +147,7 @@
         />
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
