@@ -2,9 +2,7 @@
 <div align="center">
 	<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=DAVID&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=22&descAlignY=60&animation=fadeIn" />
 
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+modern+digital+products;Frontend+%E2%80%A2+Backend+%E2%80%A2+UI%2FUX;Turning+ideas+into+real+experiences" alt="Animated typing" />
-	</a>
+
 </div>
 
 <br>
